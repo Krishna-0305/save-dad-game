@@ -1,0 +1,9 @@
+.git/
+server/src/tests/
+*.test.ts
+.env
+.env.local
+server/.env
+README.md
+spec.md
+
